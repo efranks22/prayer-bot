@@ -1,7 +1,7 @@
 import requests
 from datetime import datetime
 
-BOT_ID = "fa77ac4c89ecda732bb0356aab"
+BOT_ID = "c09ddad5e218b272e09e089048"
 URL = "https://api.groupme.com/v3/bots/post"
 
 # You can change this message anytime
